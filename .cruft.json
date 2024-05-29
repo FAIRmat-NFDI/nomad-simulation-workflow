@@ -1,0 +1,26 @@
+{
+  "template": "https://github.com/FAIRmat-NFDI/cookiecutter-nomad-plugin",
+  "commit": "dbf41935075d9057d69478db6eb9e7901bb44992",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "full_name": "Alvin Noe Ladines",
+      "email": "ladinesa@physik.hu-berlin.de",
+      "github_username": "ladinesa",
+      "plugin_name": "simulation-workflow",
+      "module_name": "simulation_workflow",
+      "short_description": "Schema defintions and normalizer for NOMAD simulation workflows",
+      "version": "0.1.0",
+      "license": "Apache Software License 2.0",
+      "include_schema_package": true,
+      "include_normalizer": true,
+      "include_parser": false,
+      "include_app": false,
+      "_copy_without_render": [
+        "*.html"
+      ],
+      "_template": "https://github.com/FAIRmat-NFDI/cookiecutter-nomad-plugin"
+    }
+  },
+  "directory": null
+}
